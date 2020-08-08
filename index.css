@@ -52,15 +52,30 @@ body{
   width: 100%;
   border-radius:8px ;
   display: flex;
-  justify-content: space-between;
   font-size: xx-large;
 }
+#span-data{
+  width: 70%;
+}
 #del-btn{
+  background-color: tomato;
+}
+#span-data{
+  display: flex;
+  width: 70%;
+  align-items: center;
+}
+.list-data button{
   border: 0;
   padding: 10px 5px;
   cursor: pointer;
   color: white;
-  background-color: tomato;
+  background-color:#74b9ff ;
   border-radius: 5px;
-  margin-right: 10px;
+  margin: 0 10px;
+  height: 50px;
+  width: 70px;
+}
+.list-data input{
+  width: 70%;
 }
