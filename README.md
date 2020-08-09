@@ -1,5 +1,5 @@
 # To-do-list
-Simple To do list made with vanilla Js
+Simple To do list made with vanilla Js , css along with mobile responsive.
 
 ## Take a preview at https://bdbose.github.io/to-do-list/
 
