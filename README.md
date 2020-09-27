@@ -7,8 +7,8 @@ Simple To do list made with vanilla Js , css along with mobile responsive.
 
 Normal
 
-![](img/sample1.jpeg)
+<img src='img/sample1.jpeg' height=400 >
 
 Editting a Message
 
-![](img/saample2.jpeg)
+<img src='img/sample2.jpeg' height=400 >
