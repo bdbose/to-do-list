@@ -11,4 +11,4 @@ Normal
 
 Editting a Message
 
-<img src='img/sample2.jpeg' height=400 >
+<img src='img/saample2.jpeg' height=400 >
