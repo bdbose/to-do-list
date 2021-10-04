@@ -12,12 +12,13 @@ body{
   color: white;
 }
 #search-input{
-  padding: 5px;
+  padding: 5px 15px;
   width: 70vw;
   max-width: 500px;
   border: 0;
-  border-bottom: 2px solid;
   outline: none;
+  background-color: #ecf0f1;
+  color: #7e7e7e;
 }
 .search{
   display: flex;
@@ -25,11 +26,14 @@ body{
 }
 #search-container{
   display: flex;
-  padding: 5px;
-  background-color: white;
-  border-radius: 8px;
+  padding: 5px 15px;
   margin-top: 30px;
+  background-color: #ecf0f1;
+  width: 36vw;
+  border-radius: 20px;
 }
+
+
 .search img{
   height: 25px;
   width: auto;
